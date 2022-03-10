@@ -1,0 +1,23 @@
+{
+    "Agent": {
+        "checkpoints": [
+            {
+                "steps": 42834,
+                "file_path": "results\\2train\\Agent\\Agent-42834.onnx",
+                "reward": null,
+                "creation_time": 1617002976.2510972
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 42834,
+            "file_path": "results\\2train\\Agent.onnx",
+            "reward": null,
+            "creation_time": 1617002976.2510972
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.24.0",
+        "torch_version": "1.7.1+cpu"
+    }
+}

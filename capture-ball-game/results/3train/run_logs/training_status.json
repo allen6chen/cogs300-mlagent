@@ -1,0 +1,23 @@
+{
+    "Agent": {
+        "checkpoints": [
+            {
+                "steps": 421066,
+                "file_path": "results\\3train\\Agent\\Agent-421066.onnx",
+                "reward": null,
+                "creation_time": 1617006407.1473293
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 421066,
+            "file_path": "results\\3train\\Agent.onnx",
+            "reward": null,
+            "creation_time": 1617006407.1473293
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.17.0",
+        "tensorflow_version": "2.4.1"
+    }
+}
